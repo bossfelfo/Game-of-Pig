@@ -1,5 +1,5 @@
 # Game-of-Pig
-Pig is a simple dice game built with vanilla JavaScript. The game was first described in print in John Scarne in 1945.[1] Players take turns to roll a single dice as many times as they wish, adding all roll results to a running total, but losing their gained score for the turn if they roll a 1.
+Pig is a simple dice game built with vanilla JavaScript. The game was first described in print in John Scarne in 1945. Players take turns to roll a single dice as many times as they wish, adding all roll results to a running total, but losing their gained score for the turn if they roll a 1.
 
 # Gameplay or How to Play
 Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
